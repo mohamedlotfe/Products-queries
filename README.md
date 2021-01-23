@@ -13,6 +13,6 @@ Run `npm start` for a dev server.
 
 ## test server
 
-I include Postman json file for API or try GET Method below 
+I include DB called(db1.sql) and Postman json file for API or try GET Method below 
 
 "http://localhost:3030/products/cars",
